@@ -1,0 +1,26 @@
+{
+  "name": "my_app001",
+  "version": "1.0.0",
+  "description": "## it is written by a code",
+  "main": "stream.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weekmo/nodejs-essential.git"
+  },
+  "keywords": [],
+  "author": "Mohammed Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weekmo/nodejs-essential/issues"
+  },
+  "homepage": "https://github.com/weekmo/nodejs-essential#readme",
+  "dependencies": {
+    "multiparty": "^4.2.2"
+  }
+}
